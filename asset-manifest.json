@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-techLearnie/static/css/main.b05c08d0.css",
+    "main.js": "/react-techLearnie/static/js/main.ca5b1625.js",
+    "static/js/453.8e957607.chunk.js": "/react-techLearnie/static/js/453.8e957607.chunk.js",
+    "static/media/hero-img.png": "/react-techLearnie/static/media/hero-img.012ddd1325bd518c2ec7.png",
+    "static/media/app.webp": "/react-techLearnie/static/media/app.154d867d29c578948ed3.webp",
+    "static/media/img2.svg": "/react-techLearnie/static/media/img2.8188e96fc7d8edd73be39d0961fc8212.svg",
+    "static/media/marketing.jpeg": "/react-techLearnie/static/media/marketing.4d1c0dde0c36f20baf38.jpeg",
+    "static/media/software.jpg": "/react-techLearnie/static/media/software.2aa100867d7e5ac0a456.jpg",
+    "static/media/S1.webp": "/react-techLearnie/static/media/S1.329c28dc5a6c6919b345.webp",
+    "static/media/digital.webp": "/react-techLearnie/static/media/digital.c93d3ad99a9ed380e771.webp",
+    "index.html": "/react-techLearnie/index.html",
+    "main.b05c08d0.css.map": "/react-techLearnie/static/css/main.b05c08d0.css.map",
+    "main.ca5b1625.js.map": "/react-techLearnie/static/js/main.ca5b1625.js.map",
+    "453.8e957607.chunk.js.map": "/react-techLearnie/static/js/453.8e957607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05c08d0.css",
+    "static/js/main.ca5b1625.js"
+  ]
+}
